@@ -1,5 +1,8 @@
 # Meetup Dataset
 The datasets were originally crawled from the Meetup.com by authors of this work[1].
+It consists of two part:
+- [meetup_network](meetup_network/): the event-group, user-event and user-group relations
+- [meetup_tag](meetup_tag/): the tags for groups and users
 
 
 
