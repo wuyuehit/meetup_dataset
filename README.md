@@ -10,4 +10,5 @@ It consists of two part:
 based social networks: linking the online and offline social worlds,”
 in Proceedings of the 18th ACM SIGKDD international conference on
 Knowledge discovery and data mining, 2012, pp. 1032–1040.
+
 [2] Y. Wu, W. Huang Wayne, L. Yu’d and Y. Tiand, "Group Recommendation Based on Heterogeneous Graph Algorithm for EBSNs," in IEEE Access, vol. 11, pp. 1854-1866, 2023, doi: 10.1109/ACCESS.2022.3224598.
